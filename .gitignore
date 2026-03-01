@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+smile_env/
+
+# Dataset
+dataset/
+results/
+
+# OpenFace binaries
+openface/
+
+# OS
+.DS_Store
+Thumbs.db
